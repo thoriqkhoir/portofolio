@@ -141,7 +141,7 @@ const chromaItems: ChromaItem[] = projects.map((project) => ({
               My Portfolio
             </ScrollFloat>
           </h2>
-          <p className="text-lg sm:text-xl text-slate-300">
+          <p className="text-lg sm:text-xl text-purple-300">
             Here are some of the projects I've worked on
           </p>
         </div>

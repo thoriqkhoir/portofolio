@@ -25,7 +25,7 @@ export default function AboutSection() {
             </ScrollFloat>
           </h2>
           
-          <p className="text-lg sm:text-xl text-white">
+          <p className="text-lg sm:text-xl text-purple-300">
             Get to know more about my background and skills
           </p>
         </div>
